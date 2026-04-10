@@ -1,14 +1,2 @@
-# **************************************************************************** #
-#                                                                              #
-#                                                         :::      ::::::::    #
-#    ft_hello_garden.py                                 :+:      :+:    :+:    #
-#                                                     +:+ +:+         +:+      #
-#    By: tsiarran <tsiarran@student.42antananari    +#+  +:+       +#+         #
-#                                                 +#+#+#+#+#+   +#+            #
-#    Created: 2026/03/30 17:54:37 by tsiarran          #+#    #+#              #
-#    Updated: 2026/03/31 08:46:32 by tsiarran         ###   ########.fr        #
-#                                                                              #
-# **************************************************************************** #
-
-def	ft_hello_garden():
-	print("Hello, Garden Community!")
+def ft_hello_garden():
+    print("Hello, Garden Community!")
